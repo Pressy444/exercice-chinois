@@ -1,0 +1,155 @@
+p {
+    font-size: 15px;
+    max-width: 300px;
+    
+    text-align: center;
+    font-family:'Dancing Script', cursive;
+    
+  }
+    
+  
+  body {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    background-color:rgb(122, 4, 4);
+    margin-left:auto;
+    margin-right: auto;
+    max-width: 90%; text-align: center;
+   
+
+blockquote {
+  max-width: 55%;
+  margin: 0 auto;
+  
+  
+}
+
+    
+  }
+  p {
+    margin-bottom: 15px;
+  }
+ 
+  h1 {
+    font-family: Arial,sans-serif, sans-serif;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+    color : rgb(12, 1, 20);
+    background-color:rgb(241, 187, 7);
+    box-shadow: 1px 3px 2px rgb(37, 8, 1);}
+
+h3 {
+    color:bisque;
+    text-align :center;
+
+}
+img {
+    width : 300px;
+    height : 500px;
+    position : relative;
+    padding: 30px ;
+    border-radius: 10px;
+    box-shadow: 3px 4px 5px 4px rgba(0,0,0,0.7);
+    margin: 15px;
+}
+h5 {
+    color :rgb(243, 209, 145); 
+}
+.liste {
+    color:black;
+    
+    font-family:'Dancing Script', cursive;
+    
+}
+h2 {
+  font-size: 25px;
+  line-height: 40px;
+  color:#FFFAE1;
+  text-align: center;
+}
+footer {
+  background-color: #8b723f;
+  color: #FFFAE1;
+	padding: 20px 0 10px 0;
+	text-align: center;
+}
+a {
+  margin: 0 50 0 50;
+}
+.signature {
+  text-align: center;
+}
+#big-text{
+	background-color: #8b723f;
+	padding: 10px 0px 100px 0px;
+  text-size-adjust: 100px;
+  color:bisque;
+  text-align: center;
+  text-size-adjust: auto;
+  display: flex;
+}
+
+.premiertxt {
+   flex: 0 0 auto;
+}
+.im {
+  flex: 1;
+}
+
+
+
+#premierTrait {
+	height: 1px;
+	width: 25%;
+	margin: -3px auto;
+	backGround-color: #FFFAE1;
+    box-shadow: 1px 3px 2px black;}
+
+h4 {
+  text-align: center;
+  color:bisque;
+  text-align: center;
+  font-family:'Dancing Script', cursive;
+    
+}
+.block {
+  display: block;
+}
+
+table {
+  background-color:#8b723f;
+  border: 1px solid black;
+  border-collapse: collapse;
+ 
+  margin: auto;
+}
+td {
+  border: 1px solid black;
+}
+th { 
+  border: black;
+
+}
+#big-text2 {
+	background-color: #8b723f;
+	padding: 10px 0px 100px 0px;
+  text-size-adjust: 100px;
+  color:bisque;
+  text-align: center;
+  text-size-adjust: auto;
+  display: flex;}
+
+  .deuxiemetxt {
+    flex: 0 0 auto;
+ }
+ .im2 {
+   flex: 1;
+ }
+ #entete {
+  display: flex;
+ }
+ .im3 {
+  flex: 1;
+ }
